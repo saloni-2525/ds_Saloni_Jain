@@ -60,6 +60,8 @@ Libraries used: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 There was no leverage column in the dataset, so leverage wasn't analyzed.
 
+The historical_data.csv file is large, so it is stored on Google Drive:
+[Click here to access the dataset](https://drive.google.com/file/d/1Gw-QK9wVAo2Df6X_lpCn3tYSwKraCrYT/view?usp=sharing)
 ---
 
 ## Author
